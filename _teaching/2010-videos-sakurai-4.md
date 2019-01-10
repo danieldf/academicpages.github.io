@@ -36,7 +36,10 @@ The <a href="[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=
   alt : <a href="http://www.youtube.com/view_play_list?p=BDA16F52CA3C9B1D">APS 2010 Sakurai Prize (all events)</a>
 </object>
 
+## Poster
+
+<a href="http://www.physics.brown.edu/SakuraiTalks.html"><img src="[GerrySakurai2010.jpg](http://www.het.brown.edu/people/danieldf/GerrySakurai2010.jpg)" alt="Brown Poster" /></a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4OTI0MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0MzA3MzExMDBdfQ==
 -->
