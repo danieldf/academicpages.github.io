@@ -10,7 +10,7 @@ location: "Providence (RI), USA"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+2010 Sakurai Prize in Theoretical Physics
 ======
 
 The <a href="[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Gerald%20S.%20Guralnik&amp;year=2010](http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Gerald%20S.%20Guralnik&year=2010)">APS 2010 Sakurai Prize</a> was awarded <em>"[F]or elucidation of the properties of spontaneous symmetry breaking in four-dimensional relativistic gauge theory and of the mechanism for the consistent generation of vector boson masses"</em>.
@@ -27,6 +27,8 @@ The <a href="[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=
 
 
 ## APS 2010 Sakurai Prize &#8212; April Meeting
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzAwNzM0OF19
+eyJoaXN0b3J5IjpbLTIzNDM3MjU0NF19
 -->
