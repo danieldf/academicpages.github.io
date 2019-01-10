@@ -25,7 +25,17 @@ Using the [arXivs](http://arxiv.org/)' notation: [hep-th](http://arxiv.org/archi
 
 My scientific articles can be found in the [arXivs](http://arxiv.org/a/ferrante_d_1), or in [inSPIRE](http://bit.ly/ddfinspire); and my [Lattes CV](http://lattes.cnpq.br/0783279382148211) (pt_BR).
 
-## Links
+## Interesting Links
+
+* [Physics.SE](http://physics.stackexchange.com/);
+* [Theoretical Physics FAQ](http://www.mat.univie.ac.at/~neum/physics-faq.txt);
+* [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html);
+* [Theoretical Mathematics](http://arxiv.org/find/all/1/all:+AND+Jaffe+Quinn/0/1/0/all/0/1);
+* [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem-Quine_thesis);
+* [The History of the Guralnik, Hagen and Kibble development of the Theory of Spontaneous Symmetry Breaking and Gauge Particles](http://arxiv.org/abs/0907.3466),
+    by [G. Guralnik](http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Gerald%20S.%20Guralnik&year=2010).
+
+
 # Neuroscience
 
 Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience, e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/). In modern parlance, this is also known as [Capsule Networks](https://en.wikipedia.org/wiki/Capsule_neural_network).
@@ -88,5 +98,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzQ3NTU2MSwxMjc1OTEzNzQ1XX0=
+eyJoaXN0b3J5IjpbNjc0Njk5NTIxLDEyNzU5MTM3NDVdfQ==
 -->
