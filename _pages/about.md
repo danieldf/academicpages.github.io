@@ -19,6 +19,7 @@ Miscellaneous projects include predicting cybersecurity vulnerabilities, an AI c
 
 # Physics
 
+
 # Neuroscience
 
 
@@ -75,5 +76,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMDA4Mjc1LDEyNzU5MTM3NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMTE0MTE0NTUsMTI3NTkxMzc0NV19
 -->
