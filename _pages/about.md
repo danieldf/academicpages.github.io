@@ -25,6 +25,7 @@ Using the [arXivs](http://arxiv.org/)' notation: [hep-th](http://arxiv.org/archi
 
 My scientific articles can be found in the [arXivs](http://arxiv.org/a/ferrante_d_1), or in [inSPIRE](http://bit.ly/ddfinspire); and my [Lattes CV](http://lattes.cnpq.br/0783279382148211) (pt_BR).
 
+
 # Neuroscience
 
 Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience, e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/).
@@ -83,5 +84,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAxMTE5ODMsMTI3NTkxMzc0NV19
+eyJoaXN0b3J5IjpbLTEzNjY2NzY5NTcsMTI3NTkxMzc0NV19
 -->
