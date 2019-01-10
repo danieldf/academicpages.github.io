@@ -17,6 +17,30 @@ Ferrante is an expert in applied and computational methods, machine vision, and 
 Miscellaneous projects include predicting cybersecurity vulnerabilities, an AI chatterbot platform with a built-in recommendation system, and 3D modeling of houses using photographs.
 
 
+# Physics
+
+I work with mathematical and nonperturbative aspects of [Gauge Theory](http://www.scholarpedia.org/article/Gauge_theories), and their relations to [symmetry breaking](http://plato.stanford.edu/entries/symmetry-breaking/) ([local](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism) or [global](http://www.scholarpedia.org/article/Spontaneous_symmetry_breaking_in_quantum_systems)) and how the [moduli space](http://en.wikipedia.org/wiki/Moduli_space) and its topology determine the quantization of the physical system at hand. I am also interested in quantum phases and the space of quantum field theories, non-linear Fredholm theory, branes and [topological quantization](http://projecteuclid.org/euclid.cmp/1103943448) (which is related to the previous topic via [Index Theorems](http://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)); noncommutative and spectral geometry, and their relation to deformation and geometric quantization; [Higgs Bundles](http://www.numdam.org/item?id=PMIHES_1992__75__5_0); [Geometric Langlands Duality](http://arxiv.org/abs/0906.2747) (dualities in general: AdS/CFT, modular and mirror symmetry, etc); quantum fields in curved spaces; higher gauge theory and category theory; and so on — and their relations to Quantum Gravity.
+
+Using the [arXivs](http://arxiv.org/)' notation: [hep-th](http://arxiv.org/archive/hep-th), [math-ph](http://arxiv.org/archive/math-ph), [hep-lat](http://arxiv.org/archive/hep-lat), [gr-qc](http://arxiv.org/archive/gr-qc).
+
+My scientific articles can be found in the [arXivs](http://arxiv.org/a/ferrante_d_1), or in [inSPIRE](http://bit.ly/ddfinspire); and my [Lattes CV](http://lattes.cnpq.br/0783279382148211) (pt_BR).
+
+## Interesting Links
+
+* [Physics.SE](http://physics.stackexchange.com/);
+* [Theoretical Physics FAQ](http://www.mat.univie.ac.at/~neum/physics-faq.txt);
+* [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html);
+* [Theoretical Mathematics](http://arxiv.org/find/all/1/all:+AND+Jaffe+Quinn/0/1/0/all/0/1);
+* [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem-Quine_thesis);
+* [The History of the Guralnik, Hagen and Kibble development of the Theory of Spontaneous Symmetry Breaking and Gauge Particles](http://arxiv.org/abs/0907.3466),
+    by [G. Guralnik](http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=Gerald%20S.%20Guralnik&year=2010).
+
+
+# Neuroscience
+
+Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience, e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/). In modern parlance, this is also known as [Capsule Networks](https://en.wikipedia.org/wiki/Capsule_neural_network).
+
+
 Original About Text
 ======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -36,7 +60,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-MathJax Example
+MathJax Examples
 ======
 Paragraph ipsum lorem…
 
@@ -45,6 +69,10 @@ $$ f(a) = \frac{1}{2\, \pi\, i} \, \oint_{\gamma} \frac{f(z)}{z - a}\, dz \;. $$
 Another one…
 
 $$ e^{i\, \pi} + 1 = 0 \; . $$
+
+And, another one…
+
+$$ \mathscr{Z}_{\mathcal{C}}(J) = \int_{\mathcal{C}} e^{i\, S(\varphi)}\, e^{i\, J\, \varphi}\, \mathcal{D}\varphi = \mathrm{Tr}_{\mathcal{C}} (e^{i\, S}\, e^{i\, J\, \varphi})\;. $$
 
 Site-wide configuration
 ------
@@ -70,5 +98,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTkxMzc0NV19
+eyJoaXN0b3J5IjpbNjc0Njk5NTIxLDEyNzU5MTM3NDVdfQ==
 -->
