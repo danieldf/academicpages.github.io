@@ -50,7 +50,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-MathJax Example
+MathJax Examples
 ======
 Paragraph ipsum lorem…
 
@@ -88,5 +88,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAzMTcyNjEsMTI3NTkxMzc0NV19
+eyJoaXN0b3J5IjpbLTE2Mjg2ODUyOCwxMjc1OTEzNzQ1XX0=
 -->
