@@ -28,7 +28,7 @@ My scientific articles can be found in the [arXivs](http://arxiv.org/a/ferrante_
 
 # Neuroscience
 
-Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience, e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/).
+Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience, e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/). In modern parlance, this is also known as [Capsule Networks](https://en.wikipedia.org/wiki/Capsule_neural_network).
 
 
 Original About Text
@@ -84,5 +84,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY2NzY5NTcsMTI3NTkxMzc0NV19
+eyJoaXN0b3J5IjpbLTUxMzk4MDAwNywxMjc1OTEzNzQ1XX0=
 -->
