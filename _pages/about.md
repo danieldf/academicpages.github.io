@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Daniel Ferrante completed his Ph.D. in theoretical physics at Brown University, winning the Physics Department's awards for Scholarship and for excellence in Teaching. During his career in academia, he worked on a wide variety of numerical and computational methods, including complex/imaginary Monte Carlo, chaotic dynamical systems, multi-fractal systems, and stochastic differential equations. During this time, Dr. Ferrante was also responsible for the implementation and oversight for high performance computing infrastructure and other distributed computing systems, from commission and hardware installation to security and system administration.
+
+Prior to SFL, Dr. Ferrante was a Sloan-Swartz Fellow, and later a Data Science Manager, at Cold Spring Harbor Laboratory, modeling and analyzing big data in neuroscience. His work included data warehousing, data engineering, and quantitative big image analysis (60000×55000 pixels @ 0.5μm/pixel resolution) to study brain-wide connectivity in large >1.5PB datasets. Applications included disease modeling, segmentation, and cell-detection in various animal species as well as Topological Data Analysis to identify autism in the SFARI dataset for the Simons Foundation, and modeling the statistical evolution of brain regions. His experience with quantitative big image analysis serves as a backbone for work in the healthcare space, especially digital histopathology and the medical imaging space.
+
+He is an expert in applied and computational methods, machine vision, and analytical modeling of complex systems. His recent projects include developing a state-of-the-art computer vision framework to classify and segment several objects within high-resolution satellite images; the detection framework can be applied to a host of infrastructure and development questions and provide insights on a national or global scale.
+
+Miscellaneous projects include predicting cybersecurity vulnerabilities, an AI chatterbot platform with a built-in recommendation system, and 3D modeling of houses using photographs.
+
+Original About Text
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -58,3 +68,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyODk2MjE3M119
+-->
