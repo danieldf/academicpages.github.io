@@ -18,7 +18,27 @@ Miscellaneous projects include predicting cybersecurity vulnerabilities, an AI c
 
 
 # Physics
+I work with mathematical and nonperturbative aspects of [Gauge Theory](http://www.scholarpedia.org/article/Gauge_theories),
+and their relations to [symmetry breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
+([local](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism) or
+[global](http://www.scholarpedia.org/article/Spontaneous_symmetry_breaking_in_quantum_systems)) and how the
+[moduli space](http://en.wikipedia.org/wiki/Moduli_space) and its topology determine the quantization of the physical
+system at hand. I am also interested in quantum phases and the space of quantum field theories, non-linear Fredholm theory,
+branes and [topological quantization](http://projecteuclid.org/euclid.cmp/1103943448) (which is related to the previous
+topic via [Index Theorems](http://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)); noncommutative and
+spectral geometry, and their relation to deformation and geometric quantization;
+[Higgs Bundles](http://www.numdam.org/item?id=PMIHES_1992__75__5_0); [Geometric Langlands Duality](http://arxiv.org/abs/0906.2747)
+(dualities in general: AdS/CFT, modular and mirror symmetry, etc); quantum fields in curved spaces; higher gauge theory
+and category theory; and so on — and their relations to Quantum Gravity.
 
+Lately, I have also been peaking at some problems in Theoretical and Computational Neuroscience,
+e.g., [Ersätz-Brain](http://www.cog.brown.edu/Research/ErsatzBrainGroup/).
+
+Using the [arXivs](http://arxiv.org/)' notation: [hep-th](http://arxiv.org/archive/hep-th), [math-ph](http://arxiv.org/archive/math-ph),
+[hep-lat](http://arxiv.org/archive/hep-lat), [gr-qc](http://arxiv.org/archive/gr-qc).
+
+My scientific articles can be found in the [arXivs](http://arxiv.org/a/ferrante_d_1), or in [inSPIRE](http://bit.ly/ddfinspire);
+and my [Lattes CV](http://lattes.cnpq.br/0783279382148211) (pt_BR).
 
 # Neuroscience
 
@@ -76,5 +96,5 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE0MTE0NTUsMTI3NTkxMzc0NV19
+eyJoaXN0b3J5IjpbLTE2OTUxNjYxMTMsMTI3NTkxMzc0NV19
 -->
