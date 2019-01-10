@@ -7,6 +7,38 @@ redirect_from:
   - /markdown.html
 ---
 
+## Relevants Links, Bookmarks, and References
+* [Everything you need to know about Tmux copy paste](http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting/)
+* [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Python](https://github.com/wavelets/awesome-python)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Network-wide ad blocking](https://pi-hole.net/)
+* [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
+* [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
+* [Wonderful World of macOS](https://github.com/nikitavoloboev/my-mac-os)
+* [Wonderful World of iOS](https://github.com/nikitavoloboev/my-ios)
+* [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
+* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [Bash-it](https://github.com/Bash-it/bash-it)
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
+* [Terminals Are Sexy](https://terminalsare.sexy/)
+* [oh-my-git](https://github.com/arialdomartini/oh-my-git)
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
+* [Dotfiles on GitHub](https://dotfiles.github.io/)
+* [sensible hacker defaults for macOS](https://github.com/mathiasbynens/dotfiles)
+* [A set of vim, zsh, git, and tmux configuration files](https://github.com/thoughtbot/dotfiles)
+* [Colourful & robust OS X configuration files and utilities](https://github.com/paulmillr/dotfiles)
+* [8values](https://8values.github.io/)
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml

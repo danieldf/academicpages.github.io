@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,6 +24,16 @@ Getting started
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
+MathJax Example
+======
+Paragraph ipsum lorem…
+
+$$ f(a) = \frac{1}{2\, \pi\, i} \, \oint_{\gamma} \frac{f(z)}{z - a}\, dz \;. $$
+
+Another one…
+
+$$ e^{i\, \pi} + 1 = 0 \; . $$
 
 Site-wide configuration
 ------
