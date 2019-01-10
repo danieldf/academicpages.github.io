@@ -22,7 +22,7 @@ The <a href="[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=
   <param name="movie" value="http://www.youtube.com/p/75886AF7A27AC5D5&amp;hl=en_US&amp;fs=1"/>
   <param name="allowFullScreen" value="true"/>
   <param name="allowscriptaccess" value="always"/>
-  alt : <a href="[http://www.youtube.com/view_play_list?p=75886AF7A27AC5D5](http://www.youtube.com/view_play_list?p=75886AF7A27AC5D5)">Brown Celebration of the APS 2010 Sakurai Prize (all events)</a>
+  alt : <a href="http://www.youtube.com/view_play_list?p=75886AF7A27AC5D5">Brown Celebration of the APS 2010 Sakurai Prize (all events)</a>
 </object>
 
 
@@ -33,10 +33,10 @@ The <a href="[http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=
   <param name="movie" value="http://www.youtube.com/p/BDA16F52CA3C9B1D&amp;hl=en_US&amp;fs=1"/>
   <param name="allowFullScreen" value="true"/>
   <param name="allowscriptaccess" value="always"/>
-  alt : <a href="[http://www.youtube.com/view_play_list?p=BDA16F52CA3C9B1D](http://www.youtube.com/view_play_list?p=BDA16F52CA3C9B1D)">APS 2010 Sakurai Prize (all events)</a>
+  alt : <a href="http://www.youtube.com/view_play_list?p=BDA16F52CA3C9B1D">APS 2010 Sakurai Prize (all events)</a>
 </object>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODE0MDkyOF19
+eyJoaXN0b3J5IjpbNTY4OTI0MzM5XX0=
 -->
